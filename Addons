@@ -1,0 +1,4 @@
+dotnet add package Carter --version 9.0.0 ==>> builder.services.AddCarter();  && app.MapCarter();
+dotnet add package Mapster --version 7.4.2-pre02  ===> For Adapting data types
+dotnet add package CSharpFunctionalExtensions --version 3.4.3  ====> For Result Patern
+dotnet add package Swashbuckle.AspNetCore --version 7.2.0  ====> Adding Swagger For Testing EndPoints

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "CvxvC7rmXQ8=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\carter\\9.0.0\\carter.9.0.0.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\carter.analyzers\\9.0.0\\carter.analyzers.9.0.0.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\csharpfunctionalextensions\\3.4.3\\csharpfunctionalextensions.3.4.3.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\microsoft.codeanalysis.common\\4.11.0\\microsoft.codeanalysis.common.4.11.0.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.11.0\\microsoft.codeanalysis.csharp.4.11.0.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.0\\microsoft.extensions.dependencymodel.9.0.0.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\swashbuckle.aspnetcore\\7.2.0\\swashbuckle.aspnetcore.7.2.0.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\R.Marouf\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
