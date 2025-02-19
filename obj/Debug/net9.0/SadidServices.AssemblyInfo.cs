@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SadidServices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe36abf1adb3620ba201f6f89becc521811c5c44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e70c3a7314eb03670c9d1203541ae467d6a3767")]
 [assembly: System.Reflection.AssemblyProductAttribute("SadidServices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SadidServices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

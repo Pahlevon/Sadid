@@ -2,3 +2,4 @@ dotnet add package Carter --version 9.0.0 ==>> builder.services.AddCarter();  &&
 dotnet add package Mapster --version 7.4.2-pre02  ===> For Adapting data types
 dotnet add package CSharpFunctionalExtensions --version 3.4.3  ====> For Result Patern
 dotnet add package Swashbuckle.AspNetCore --version 7.2.0  ====> Adding Swagger For Testing EndPoints
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 9.0.2   ===> Adding Microsoft EntityFrameworkCore SqlServer For EF.

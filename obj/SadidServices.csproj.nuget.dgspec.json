@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj": {}
+    "D:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj": {
+    "D:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj",
+        "projectUniqueName": "D:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj",
         "projectName": "SadidServices",
-        "projectPath": "d:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj",
+        "projectPath": "D:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj",
         "packagesPath": "C:\\Users\\R.Marouf\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\Sadid\\SadidServices\\obj\\",
+        "outputPath": "D:\\Projects\\Sadid\\SadidServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\R.Marouf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -55,6 +55,10 @@
             "Mapster": {
               "target": "Package",
               "version": "[7.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
