@@ -79,5 +79,16 @@ namespace SadidServices.Materials.Application.Coils
             var coilDto = coil.Adapt<CoilDto>();
             return coilDto;
         }
+
+        //! Delete Cenario
+        public async Task<Result> DeleteCoilAsync(Guid coilId){
+            var coil = await coilRepository.GetByIdAsync(coilId);
+            if (coil is null){
+                return Result.Failure<Guid>("Coil Not Found");
+            }
+            await coilRepository.DeleteAsync(coil);
+            return Result.Success();
+            
+        }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj": {}
+    "d:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj": {
+    "d:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj",
+        "projectUniqueName": "d:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj",
         "projectName": "SadidServices",
-        "projectPath": "D:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj",
+        "projectPath": "d:\\Projects\\Sadid\\SadidServices\\SadidServices.csproj",
         "packagesPath": "C:\\Users\\R.Marouf\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Sadid\\SadidServices\\obj\\",
+        "outputPath": "d:\\Projects\\Sadid\\SadidServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\R.Marouf\\AppData\\Roaming\\NuGet\\NuGet.Config"

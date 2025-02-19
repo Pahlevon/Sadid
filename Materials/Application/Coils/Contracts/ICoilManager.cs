@@ -16,6 +16,9 @@ namespace SadidServices.Materials.Application.Coils.Contracts
         Task<Result<Guid>> CreateCoilAsync(CreateCoilDto coilDto);  //Used Result From Result Patern in CSharpFunctional
         Task<Result> UpdateCoilAsync(Guid coilId, UpdateCoilDto coilDto); //We Get Coil Id and Updating the Rest.
         Task<Result<CoilDto>> GetCoilByIdAsync(Guid coilId); //We Get Coil Id and Updating the Rest.
+        Task<Result> DeleteCoilAsync(Guid coilId);
+    
+
 
     }
 }
