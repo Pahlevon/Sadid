@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using SadidServices.Materials.Shared.Primitives;
 using SadidServices.Materials.Shared.Primitives.Contracts;
 
-namespace SadidServices.Materials.Infrastructure.Repositories
+namespace SadidServices.Materials.Infrastructure.Persistance.Repositories
 {
     //! SQL Server - Oracle - MongoDB or ...
     public abstract class Repository<TEntity, TId> : IRepository<TEntity, TId>
